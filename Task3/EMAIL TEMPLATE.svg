@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="EMAIL TEMPLATE.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,10 +25,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.70110129"
-     inkscape:cx="421.47975"
-     inkscape:cy="663.95542"
+     inkscape:cx="421.47976"
+     inkscape:cy="323.06316"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -88,6 +88,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><rect
+       style="fill:#ffffff;stroke-width:0.365001;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect2"
+       width="210"
+       height="297"
+       x="0"
+       y="0"
+       ry="0" /><rect
        style="opacity:1;fill:url(#linearGradient2);fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="rect1"
        width="210"
@@ -294,7 +301,7 @@
          style="fill:#ffffff;fill-opacity:1;stroke-width:0"
          x="3.773824"
          y="266.32056"
-         id="tspan45"></tspan><tspan
+         id="tspan45" /><tspan
          sodipodi:role="line"
          style="fill:#ffffff;fill-opacity:1;stroke-width:0"
          x="3.773824"
@@ -314,7 +321,7 @@
          style="fill:#ffffff;fill-opacity:1;stroke-width:0"
          x="3.773824"
          y="290.02728"
-         id="tspan49"></tspan><tspan
+         id="tspan49" /><tspan
          sodipodi:role="line"
          style="fill:#ffffff;fill-opacity:1;stroke-width:0"
          x="3.773824"
